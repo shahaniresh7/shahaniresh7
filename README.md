@@ -41,10 +41,10 @@
 
 <div align="center">
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=radical&show_icons=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact"/> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact"/> |
   | :---: | :---: |
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=radical&hide_border=true" alt="Scar1109" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true" alt="shahaniresh7" />
   
 </div>
 
