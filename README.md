@@ -1,67 +1,133 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<h3 align="center">🚀 Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 🧑‍🎓 I’m an Undergraduate at **ESOFT**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" />
+  <a href="https://github.com/Scar1109?tab=followers">
+    <img src="https://img.shields.io/github/followers/Scar1109?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a> </p>
+## 📖 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%" align="left">
+      
+- 🌱 **Currently Learning:** MERN Stack & Advanced Java
+- 🧑‍🎓 **Education:** Undergraduate at SLIIT
+- 💻 **Tech Enthusiast** with passion for Full-Stack Development
+- 💬 **Expertise Areas:** Java, Web Development, Database Systems
+- 📫 **Reach me at:** kaveen.dinethma@gmail.com
+- ⚡ **Fun fact:** Everyone calls me **KD**!
+- 🎯 **Goal:** To become a proficient Full-Stack Developer
+
+    </td>
+    <td width="40%" align="center">
+      <img align="center" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=radical&show_icons=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact"/> |
+  | :---: | :---: |
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=radical&hide_border=true" alt="Scar1109" />
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FFFFFF?style=for-the-badge&logo=davinciresolve&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+---
+
+## 📈 GitHub Activity
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scar1109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="kaveendinethma1109" />
+  </a>
+  <a href="https://linkedin.com/in/kaveendinethma" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kaveendinethma" />
+  </a>
+  <a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="kaveen-dinethma" />
+  </a>
+  <a href="mailto:kaveen.dinethma@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💰 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/scar2001">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+</div>
