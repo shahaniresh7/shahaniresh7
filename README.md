@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"><b> About Me </b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpqYzBtb2J5c3l5d3gzb3NkMGNtem9lcXV5NG54c2Z4ZXhkN3l3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLDvaRonHeVdWtf4bW/giphy.gif" width="30"><b> About Me </b>
 
 <table align="center">
   <tr>
