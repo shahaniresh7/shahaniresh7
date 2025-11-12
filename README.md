@@ -6,9 +6,9 @@
 <h3 align="center">🚀 Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" />
-  <a href="https://github.com/Scar1109?tab=followers">
-    <img src="https://img.shields.io/github/followers/Scar1109?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=shahaniresh7&label=Profile%20views&color=0e75b6&style=flat" alt="shahaniresh7" />
+  <a href="https://github.com/shahaniresh7?tab=followers">
+    <img src="https://img.shields.io/github/followers/shahaniresh7?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
