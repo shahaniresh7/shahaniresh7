@@ -22,11 +22,9 @@
     <td width="60%" align="left">
       
 - 🌱 **Currently Learning:** MERN Stack & Advanced Java
-- 🧑‍🎓 **Education:** Undergraduate at SLIIT
-- 💻 **Tech Enthusiast** with passion for Full-Stack Development
+- 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
 - 💬 **Expertise Areas:** Java, Web Development, Database Systems
 - 📫 **Reach me at:** kaveen.dinethma@gmail.com
-- ⚡ **Fun fact:** Everyone calls me **KD**!
 - 🎯 **Goal:** To become a proficient Full-Stack Developer
 
     </td>
