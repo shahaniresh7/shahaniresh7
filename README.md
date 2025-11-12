@@ -24,8 +24,9 @@
 - 🌱 **Currently Learning:** MERN Stack & Advanced Java
 - 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
 - 💬 **Expertise Areas:** Java, Web Development, Database Systems
-- 📫 **Reach me at:** kaveen.dinethma@gmail.com
+- 📫 **Reach me at:** shahaniresh7@gmail.com
 - 🎯 **Goal:** To become a proficient Full-Stack Developer
+- ⚡ **Fun fact:** I love solving complex problems and exploring new technologies
 
     </td>
     <td width="40%" align="center">
@@ -89,11 +90,11 @@
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scar1109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=shahaniresh7&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -104,17 +105,17 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="kaveendinethma1109" />
+  <a href="https://www.linkedin.com/in/shahan-iresh" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahan-iresh" />
   </a>
-  <a href="https://linkedin.com/in/kaveendinethma" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kaveendinethma" />
+  <a href="https://stackoverflow.com/users/your-user-id" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="shahan-iresh" />
   </a>
-  <a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="kaveen-dinethma" />
-  </a>
-  <a href="mailto:kaveen.dinethma@gmail.com">
+  <a href="mailto:shahaniresh7@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter" />
   </a>
 </p>
 
@@ -123,8 +124,8 @@
 ## 💰 Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/scar2001">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" />
+  <a href="https://www.buymeacoffee.com/shahaniresh">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahaniresh" />
   </a>
 </p>
 
