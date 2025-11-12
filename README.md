@@ -38,8 +38,8 @@
 
 ---
 
-## 📊 GitHub Analytics
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+ 
 <div align="center">
   
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact"/> |
@@ -50,8 +50,6 @@
 </div>
 
 ---
-
-##  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 🛠️ Tech Stack
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
