@@ -16,6 +16,8 @@
 ---
 
 ## 📖 About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"><b> About Me </b>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
 <table align="center">
   <tr>
