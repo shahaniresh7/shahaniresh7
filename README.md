@@ -128,6 +128,81 @@
   </a>
 </p>
 
+
+ 
+<p align="center">
+  <a href="https://x.com/shahaniresh" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" width="60" height="60"/>
+  </a>
+  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="60"/>
+  </a>
+  <a href="https://www.facebook.com/share/1bprpgzynx/" target="_blank">
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="60" height="60"/>
+  </a>
+  <a href="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="60" height="60"/>
+  </a>
+  <a href="https://www.youtube.com/c/shahaniresh7" target="_blank">
+    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="60" height="60"/>
+  </a>
+</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahaniresh7)
+
+</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=&logoSize=35)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=&logoSize=35)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=&logoSize=35)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&label=&logoSize=35)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=&logoSize=35)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=&logoSize=35)](https://github.com/shahaniresh7)
+
+</div>
+
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveen.dinethma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahanirsh7)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoSize=25)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white&logoSize=25)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&logoSize=25)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white&logoSize=25)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&logoSize=25)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoSize=25)](https://github.com/shahaniresh7)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/shahaniresh7)
+
+</div>
+
  
 ---
 
