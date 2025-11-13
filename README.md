@@ -146,7 +146,7 @@
 
 ###
 <div align="center">
-  <h2><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> "In Data We Trust — Code. Analyze. Innovate." <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"></h2>
+  <h2><img src="https://media.giphy.com/media/jTCG52h0YanLMrjPdI/giphy.gif" width="30px"> "In Data We Trust — Code. Analyze. Innovate." <img src="https://media.giphy.com/media/jTCG52h0YanLMrjPdI/giphy.gif" width="30px"></h2>
   <p><em>Thanks for visiting my digital lab! Always exploring data, building intelligent systems, and learning every day. 🚀</em></p>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Data Science Animation">
