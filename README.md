@@ -122,12 +122,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoSize=45)](https://linkedin.com/in/shahan-iresh-374218374)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white&logoSize=35)](https://www.facebook.com/share/1bprpgzynx/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&logoSize=55)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
-[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white&logoSize=25)](https://x.com/shahaniresh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&logoSize=25)](mailto:shahaniresh7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoSize=25)](https://github.com/shahaniresh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoSize=105)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white&logoSize=105)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&logoSize=105)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white&logoSize=105)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&logoSize=105)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoSize=105)](https://github.com/shahaniresh7)
 
 </div>
 
