@@ -21,7 +21,6 @@
   <tr>
     <td width="50%" align="left">
       
-- 🌱 **Currently Learning:** MERN Stack & Advanced Java
 - 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
 - 💬 **Expertise Areas:** Java, Web Development, Database Systems
 - 📫 **Reach me at:** shahaniresh7@gmail.com
