@@ -22,12 +22,14 @@
 <table align="center">
   <tr>
     <td width="50%" align="left">
-      
-- 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
-- 💬 **Expertise Areas:** Java, Web Development, Database Systems
-- 📫 **Reach me at:** shahaniresh7@gmail.com
-- 🎯 **Goal:** To become a proficient Full-Stack Developer
-- ⚡ **Fun fact:** I love solving complex problems and exploring new technologies
+
+🧑‍🎓 **BSc (Hons) Data Science Undergraduate | London Metropolitan University (UK)**  
+🌐 **Portfolio Website:** [Visit My Website](https://your-website-link.com)  
+💻 **Expertise Areas:** Java, Web Development, Database Systems, and Machine Learning  
+📫 **Reach Me At:** shahaniresh7@gmail.com  
+🎯 **Goal:** To become a skilled Full-Stack Developer and Data-driven Innovator  
+
+
 
     </td>
     <td width="50%" align="center">
@@ -101,11 +103,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> GitHub Activity </b>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Snake </b>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -149,10 +147,17 @@
 ---
 
 ###
-
 <div align="center">
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h2>🌟 "In Data We Trust — Code. Analyze. Innovate." 🌟</h2>
+  <p><em>Thanks for visiting my digital lab! Always exploring data, building intelligent systems, and learning every day. 🚀</em></p>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Data Science Animation">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-blue?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Powered_by-Data_Science_and_AI-green?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Coded_in-Python_🧠-yellow?style=for-the-badge&labelColor=black" />
 </div>
   
   ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
