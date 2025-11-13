@@ -109,14 +109,7 @@
 
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Connect With Me </b>
 
-<p align="left">
-<a href="https://dev.to/vrvtvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vrvtvt" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
-</p>
+ 
 
 
 
@@ -132,43 +125,19 @@
 
 </div>
 
-<p align="center">
-<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-</p>
-
  
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />](YOUR_LINKEDIN_URL)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-
-
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](YOUR_LINKEDIN_URL)
-
+ 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahan-iresh" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahan-iresh" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-user-id" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="shahan-iresh" />
-  </a>
-  <a href="mailto:shahaniresh7@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter" />
-  </a>
+<a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
 </p>
 
+
+ 
 ---
 
 ## 💰 Support My Work
