@@ -37,6 +37,19 @@
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300&exclude_repo=github-readme-stats" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=github-dark&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+</div>
  
 <div align="center">
 
