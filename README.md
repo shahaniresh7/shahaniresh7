@@ -125,91 +125,127 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&logoSize=30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&logoSize=30" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&logoSize=30" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&logoSize=30" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:shahaniresh7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&logoSize=30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="50" height="50"/>
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white&labelColor=0A0A0A" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" width="50" height="50"/>
   </a>
   <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=0A0A0A" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width="50" height="50"/>
   </a>
   <a href="mailto:shahaniresh7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=40" width="60" height="60"/>
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" width="100"/>
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=40" width="60" height="60"/>
   </a>
   <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="100"/>
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=40" width="60" height="60"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="100"/>
+    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoSize=40" width="60" height="60"/>
   </a>
   <a href="mailto:shahaniresh7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="100"/>
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=40" width="60" height="60"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=25" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="30"/>
   </a>
   <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=25" alt="X"/>
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30"/>
   </a>
   <a href="mailto:shahaniresh7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email"/>
+    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/-0077B5?style=plastic&logo=linkedin&logoColor=white" height="35"/>
+  </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/-1877F2?style=plastic&logo=facebook&logoColor=white" height="35"/>
+  </a>
   <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/-E4405F?style=plastic&logo=instagram&logoColor=white" height="35"/>
+  </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/-1DA1F2?style=plastic&logo=twitter&logoColor=white" height="35"/>
+  </a>
   <a href="mailto:shahaniresh7@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-D14836?style=plastic&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="55" height="55"/>
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="55" height="55"/>
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="55" height="55"/>
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="55" height="55"/>
+  </a>
+  <a href="mailto:shahaniresh7@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height="55"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahan-iresh" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="45" height="45"/>
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white" width="45" height="45"/>
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" width="45" height="45"/>
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width="45" height="45"/>
+  </a>
+  <a href="mailto:shahaniresh7@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" width="45" height="45"/>
   </a>
 </p>
 
