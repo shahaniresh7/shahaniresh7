@@ -109,6 +109,18 @@
 
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Connect With Me </b>
 
+<p align="left">
+<a href="https://dev.to/vrvtvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vrvtvt" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
+</p>
+
+
+
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
