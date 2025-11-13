@@ -104,7 +104,7 @@
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Snake </b>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://media.giphy.com/media/CjPgv2Jn8A5e64RESM/giphy.gif" alt = "Snake Game"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@
  
 ---
 
-## 💰 Support My Work
+## <img src="https://media.giphy.com/media/zEFkVUMaHw6EWwtwGa/giphy.gif" width="30px"> Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shahaniresh">
@@ -158,7 +158,7 @@
   <img src="https://img.shields.io/badge/Coded_in-Python_🧠-yellow?style=for-the-badge&labelColor=black" />
 
   
-  ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### <img src="https://media.giphy.com/media/YHUFawcVBOAqIyQv84/giphy.gif" width="30px"> "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
