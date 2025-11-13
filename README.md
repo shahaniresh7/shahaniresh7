@@ -48,14 +48,7 @@
 <br>
 
 
-</div>
  
-<div align="center">
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" /> |
-| :---: | :---: |
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="shahaniresh7" />
 
@@ -64,17 +57,6 @@
 <br>
 
 <div align="center">
-
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="shahaniresh7" />
-
-</div>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Shahan%27s%20GitHub%20Activity" width="100%"/>
