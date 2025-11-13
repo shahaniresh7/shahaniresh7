@@ -47,6 +47,93 @@
   
 </div>
 
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+</div>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=dark&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+</div>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300&exclude_repo=github-readme-stats" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=github-dark&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+</div>
+
+
+<div align="center">
+
+## 🚀 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=blue-green&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=blue-green&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=blue-green&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+</div>
+
+<div align="center">
+
+## 📈 GitHub Analytics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="shahaniresh7" />
+
+</div>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
+| :---: | :---: |
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800" alt="shahaniresh7" />
+
+<br>
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Shahan%27s%20GitHub%20Activity" width="100%"/>
+
+</div>
+
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Tech Stack</b>
