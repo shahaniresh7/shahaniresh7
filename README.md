@@ -86,7 +86,7 @@
 ---
 
 ## 📈 GitHub Activity
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpqYzBtb2J5c3l5d3gzb3NkMGNtem9lcXV5NG54c2Z4ZXhkN3l3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tLDvaRonHeVdWtf4bW/giphy.gif" width="30"><b> About Me </b>
+## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> About Me </b>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -109,7 +109,8 @@
 <a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 </p>
 
-## 🤝 Connect With Me
+
+## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Connect With Me </b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="blank">
