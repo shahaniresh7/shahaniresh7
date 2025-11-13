@@ -42,8 +42,6 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300&exclude_repo=github-readme-stats" /> |
 | :---: | :---: |
 
@@ -67,7 +65,7 @@
 
 <div align="center">
 
-## 📈 GitHub Analytics
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" /> |
 | :---: | :---: |
