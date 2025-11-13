@@ -23,12 +23,11 @@
   <tr>
     <td width="50%" align="left">
 
--🧑‍🎓 **BSc (Hons) Data Science Undergraduate | London Metropolitan University (UK)**  
--🌐 **Portfolio Website:** [Visit My Website](https://your-website-link.com)  
--💻 **Expertise Areas:** Java, Web Development, Database Systems, and Machine Learning  
--📫 **Reach Me At:** shahaniresh7@gmail.com  
--🎯 **Goal:** To become a skilled Full-Stack Developer and Data-driven Innovator  
-
+- 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
+- 💬 **Expertise Areas:** Web Development, Grapic Design
+- 📫 **Reach me at:** shahaniresh7@gmail.com
+- 🎯 **Goal:** To become a proficient Full-Stack Developer
+ 
 
  </td>
     <td width="50%" align="center">
@@ -147,7 +146,7 @@
 
 ###
 <div align="center">
-  <h2>🌟 "In Data We Trust — Code. Analyze. Innovate." 🌟</h2>
+  <h2><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> "In Data We Trust — Code. Analyze. Innovate." <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"></h2>
   <p><em>Thanks for visiting my digital lab! Always exploring data, building intelligent systems, and learning every day. 🚀</em></p>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Data Science Animation">
@@ -157,7 +156,7 @@
   <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-blue?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/Powered_by-Data_Science_and_AI-green?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/Coded_in-Python_🧠-yellow?style=for-the-badge&labelColor=black" />
-</div>
+
   
   ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
