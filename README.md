@@ -120,6 +120,20 @@
 
 </div>
 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />](YOUR_LINKEDIN_URL)
+
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](YOUR_LINKEDIN_URL)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shahan-iresh" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahan-iresh" />
