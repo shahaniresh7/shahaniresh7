@@ -39,71 +39,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
  
 <div align="center">
-  
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact"/> |
-  | :---: | :---: |
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true" alt="shahaniresh7" />
-  
-</div>
-
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800" alt="shahaniresh7" />
-
-</div>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=dark&hide_border=true&card_width=800" alt="shahaniresh7" />
-
-</div>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300&exclude_repo=github-readme-stats" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=github-dark&hide_border=true&card_width=800" alt="shahaniresh7" />
-
-</div>
-
-
-<div align="center">
-
-## 🚀 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=blue-green&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=blue-green&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=blue-green&hide_border=true&card_width=800" alt="shahaniresh7" />
-
-</div>
-
-<div align="center">
-
-## 📈 GitHub Analytics
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" /> |
 | :---: | :---: |
@@ -113,19 +48,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="shahaniresh7" />
 
 </div>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=radical&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
-| :---: | :---: |
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800" alt="shahaniresh7" />
-
-<br>
 <br>
 
 <!-- Activity Graph -->
