@@ -101,7 +101,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/UZ4Qt49hqdBe4DWAb0/giphy.gif" width="30"><b> Snake </b>
+## <img src="https://media.giphy.com/media/CjPgv2Jn8A5e64RESM/giphy.gif" width="30"><b> Snake </b>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -134,7 +134,7 @@
  
 ---
 
-## <img src="https://media.giphy.com/media/zEFkVUMaHw6EWwtwGa/giphy.gif" width="30px"> Support My Work
+## <img src="https://media.giphy.com/media/UZ4Qt49hqdBe4DWAb0/giphy.gif" width="30"> Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shahaniresh">
