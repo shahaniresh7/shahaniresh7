@@ -47,7 +47,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=github-dark&hide_border=true&card_width=800" alt="shahaniresh7" />
 
 </div>
  
