@@ -110,58 +110,23 @@
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Connect With Me </b>
 
  
-
-
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveen.dinethma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahanirsh7)
-
-</div>
-
- 
-
- 
 <p align="center">
-<a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
+  <a href="https://x.com/shahaniresh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white" height="45"/>
+  </a>
+  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="45"/>
+  </a>
+  <a href="https://www.facebook.com/share/1bprpgzynx/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="45"/>
+  </a>
+  <a href="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="45"/>
+  </a>
+  <a href="https://www.youtube.com/c/shahaniresh7" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" height="45"/>
+  </a>
 </p>
-
-<p align="center">
-  <a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
-</p>
-
-<div align="center" style="margin: 20px 0;">
-  <a href="https://x.com/shahaniresh" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://facebook.com/shahaniresh" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/shahan_iresh_" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/c/shahaniresh7" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
-  </a>
-</div>
-
 
  
 ---
