@@ -87,7 +87,6 @@
 
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> GitHub Activity </b>
 
-<!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaniresh7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
@@ -97,6 +96,7 @@
 </p>
 
 ---
+
 ##  <img src="https://media.giphy.com/media/7kM1L7eg4kOyOTAPb6/giphy.gif" width="30"><b> GitHub Trophies </b>
 
 <div align="center">
@@ -111,28 +111,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveen.dinethma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahanirsh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahan-iresh-374218374)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1bprpgzynx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahaniresh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahaniresh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahaniresh7)
 
 </div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&logoSize=105)](https://linkedin.com/in/shahan-iresh-374218374)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white&logoSize=105)](https://www.facebook.com/share/1bprpgzynx/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&logoSize=105)](https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw)
-[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white&logoSize=105)](https://x.com/shahaniresh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&logoSize=105)](mailto:shahaniresh7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&logoSize=105)](https://github.com/shahaniresh7)
-
-</div>
-
- 
-
  
 ---
 
