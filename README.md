@@ -101,10 +101,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Snake </b>
+## <img src="https://media.giphy.com/media/UZ4Qt49hqdBe4DWAb0/giphy.gif" width="30"><b> Snake </b>
 
 <p align = "center">
-	<img src = "https://media.giphy.com/media/CjPgv2Jn8A5e64RESM/giphy.gif" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 ---
@@ -153,9 +153,8 @@
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-blue?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Powered_by-Data_Science_and_AI-green?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Coded_in-Python_🧠-yellow?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Made_with-and-red?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Powered_by-Shahan Iresh-blue?style=for-the-badge&labelColor=black" />
 
   
   ### <img src="https://media.giphy.com/media/YHUFawcVBOAqIyQv84/giphy.gif" width="30px"> "Code is like humor. When you have to explain it, it's bad." - Cory House
