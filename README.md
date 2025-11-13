@@ -136,6 +136,32 @@
 <a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/https://x.com/shahaniresh?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahaniresh?s=09" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahan-iresh-374218374" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/share/1bprpgzynx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bprpgzynx/" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahan_iresh_?igsh=cwn4yxrtc2e0dnyw" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/shahaniresh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahaniresh7" height="30" width="40" /></a>
+</p>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://x.com/shahaniresh" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/shahan-iresh-374218374" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com/shahaniresh" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/shahan_iresh_" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/c/shahaniresh7" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+</div>
+
 
  
 ---
@@ -149,11 +175,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahaniresh7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
