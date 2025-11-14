@@ -116,6 +116,19 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahanirsh7&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahaniresh7&theme=algolia&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahaniresh7&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahaniresh7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahaniresh7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahaniresh7)](https://github.com/ryo-ma/github-profile-trophy)
