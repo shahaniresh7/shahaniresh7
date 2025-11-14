@@ -118,6 +118,9 @@
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahaniresh7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ## <img src="https://media.giphy.com/media/ChVpMJ8skGnqwcm16A/giphy.gif" width="30"><b> Connect With Me </b>
