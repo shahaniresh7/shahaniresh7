@@ -43,7 +43,7 @@
 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahaniresh7&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaniresh7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&card_width=300" /> |
 | :---: | :---: |
 
 
