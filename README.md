@@ -52,8 +52,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaniresh7&theme=radical&hide_border=true&card_width=800&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="shahaniresh7" />
 
 </div>
-
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahaniresh7&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
 <br>
 
