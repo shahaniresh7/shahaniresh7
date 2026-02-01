@@ -25,7 +25,7 @@
 
 - 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
 - 💬 **Expertise Areas:** Web Development, Grapic Design
-- 📫 **Reach me at:** shahaniresh7@gmail.com
+- 📫 **Reach me at:** shahaniresh.WORK@gmail.com
 - 🎯 **Goal:** To become a proficient Full-Stack Developer
  
 
