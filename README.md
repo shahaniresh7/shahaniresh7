@@ -23,7 +23,7 @@
   <tr>
     <td width="50%" align="left">
 
-- 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
+- 🧑‍🎓 **BSc (Hons) Data Science Graduate**
 - 💬 **Expertise Areas:** Web Development, Grapic Design
 - 📫 **Reach me at:** shahaniresh.work@gmail.com
 - 🎯 **Goal:** To become a proficient Full-Stack Developer
